@@ -1,5 +1,3 @@
-# Python-Telecom-customer-churn-analysis
-
 # 📉 Telecom Customer Churn Analysis
 
 This project analyzes customer data from a telecom company to understand the key factors influencing customer churn — the rate at which customers stop using the company's service.
